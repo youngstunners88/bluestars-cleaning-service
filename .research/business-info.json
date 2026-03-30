@@ -1,0 +1,21 @@
+{
+  "businessName": "Bluestars Cleaning",
+  "category": "cleaning",
+  "location": "South Africa",
+  "services": [
+    "Residential Cleaning",
+    "Office Cleaning",
+    "Deep Cleaning",
+    "Window Cleaning",
+    "Move-in/Move-out"
+  ],
+  "brandColors": {
+    "primary": "#0984E3",
+    "secondary": "#74B9FF",
+    "accent": "#00CEC9",
+    "dark": "#0770C2",
+    "light": "#E8F4FD"
+  },
+  "tagline": "Professional Shine",
+  "researchDate": "2026-03-30T17:09:54.405Z"
+}

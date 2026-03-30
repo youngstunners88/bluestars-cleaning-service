@@ -1,0 +1,26 @@
+{
+  "colors": {
+    "primary": "#0984E3",
+    "secondary": "#74B9FF",
+    "accent": "#00CEC9",
+    "dark": "#0770C2",
+    "light": "#E8F4FD"
+  },
+  "fonts": {
+    "heading": "Poppins",
+    "body": "Inter"
+  },
+  "layout": "clean-minimal",
+  "components": [
+    "hero",
+    "services",
+    "about",
+    "contact",
+    "footer"
+  ],
+  "images": [
+    "Team of professional cleaners in branded uniforms, sparkling clean modern home, #0984E3 accents",
+    "Before and after cleaning transformation, bright and fresh environment",
+    "Eco-friendly cleaning supplies, professional organization, #74B9FF color scheme"
+  ]
+}
